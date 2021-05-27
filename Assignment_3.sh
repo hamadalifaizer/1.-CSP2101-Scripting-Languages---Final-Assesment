@@ -6,21 +6,6 @@
 # Software based solution
 
 
-# ***********
-# EXTRA NOTES 
-# ***********
-
-# Below I have provided an sftp server where the examiner will be able to check if the sftp function is 
-# working. The sftp server will be destroyed on 1/07/2021 and connection will not be possible. 
-
-#********************************
-# hostname or ip - 172.104.170.251
-# password ------- test123
-# username ------- ftpuser
-# directory ------ /home/ftpuser/
-#********************************
-
-
 function continuescript() # allows user to end the script or continue if wanted
 {
     echo "****************************************"
