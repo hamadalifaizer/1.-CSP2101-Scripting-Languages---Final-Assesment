@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Author - Hamad Ali Faizer
-# ECU ID - 10547327
+# 
 # CSP2101 Scripting languages Assignment 3 
 # Software based solution
 
